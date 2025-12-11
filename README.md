@@ -4,8 +4,8 @@
 
 
 
-[![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue)](https://github.com/AgRoboticsResearch/SDM-D.git) [![Dataset](https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=green)](https://www.kaggle.com/datasets/mmwang0/megafruits)
-[![Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/1tmgaogh9VjGp4sJnBMcUSyKrMfcuqwDw?usp=drive_link) [![Paper](https://img.shields.io/static/v1?label=Paper&message=Github&color=red)](https://doi.org/10.1016/j.patcog.2025.112799)
+[![Paper](https://img.shields.io/static/v1?label=Paper&message=Github&color=red)](https://doi.org/10.1016/j.patcog.2025.112799) [![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue)](https://github.com/AgRoboticsResearch/SDM-D.git) [![Dataset](https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=green)](https://www.kaggle.com/datasets/mmwang0/megafruits)
+[![Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/1tmgaogh9VjGp4sJnBMcUSyKrMfcuqwDw?usp=drive_link) 
 
 ![SDM-D architecture](./asset/1-all2.png)
 
