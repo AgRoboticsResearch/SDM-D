@@ -182,5 +182,5 @@ We introduce a high-quality, comprehensive fruit instance segmentation dataset n
 
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-![Contribution](./asset/people3.png)
+![Contribution](./asset/people2.png)
 
