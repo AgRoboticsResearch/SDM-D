@@ -176,4 +176,11 @@ We introduce a high-quality, comprehensive fruit instance segmentation dataset n
 
 - [SAM 2](https://github.com/facebookresearch/sam2.git)
 - [OpenCLIP](https://github.com/mlfoundations/open_clip.git)
+  
+  
+## 🔥Contributors
+
+Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
+
+![Contribution](./asset/people3.png)
 
