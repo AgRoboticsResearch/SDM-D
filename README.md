@@ -4,7 +4,7 @@
 
 
 
-[![Paper](https://img.shields.io/static/v1?label=Paper&message=Github&color=red)](https://doi.org/10.1016/j.patcog.2025.112799) [![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue)](https://github.com/AgRoboticsResearch/SDM-D.git) [![Dataset](https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=green)](https://www.kaggle.com/datasets/mmwang0/megafruits)
+[![Paper](https://img.shields.io/static/v1?label=Paper&message=Pattern-Recognition&color=red)](https://doi.org/10.1016/j.patcog.2025.112799) [![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue)](https://github.com/AgRoboticsResearch/SDM-D.git) [![Dataset](https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=green)](https://www.kaggle.com/datasets/mmwang0/megafruits)
 [![Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/1tmgaogh9VjGp4sJnBMcUSyKrMfcuqwDw?usp=drive_link) 
 
 ![SDM-D architecture](./asset/1-all2.png)
@@ -184,3 +184,17 @@ Our project wouldn't be possible without the contributions of these amazing peop
 
 ![Contribution](./asset/people2.png)
 
+
+## Citation
+If you use SDM-D in your research, please use the following BibTeX entry.
+```
+@article{wang2025ovs,
+  title={Learn from Foundation Model: Fruit Detection Model without Manual Annotation},
+  author={Yanan Wang, Zhenghao Fei, Ruichen Li, Yibin Ying},
+  journal={Pattern Recognition},
+  year={2025},
+  pages={112799},
+  issn={0031-3203},
+  doi={10.1016/j.patcog.2025.112799}
+}
+```
