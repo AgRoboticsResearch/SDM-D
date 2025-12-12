@@ -4,12 +4,13 @@
 
 
 
-[![Paper](https://img.shields.io/static/v1?label=Paper&message=Pattern-Recognition&color=red)](https://doi.org/10.1016/j.patcog.2025.112799) [![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue)](https://github.com/AgRoboticsResearch/SDM-D.git) [![Dataset](https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=green)](https://www.kaggle.com/datasets/mmwang0/megafruits)
+[![Paper](https://img.shields.io/static/v1?label=Paper&message=Pattern-Recognition&color=red)](https://doi.org/10.1016/j.patcog.2025.112799) [![Paper](https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red)](https://arxiv.org/abs/2411.16196) [![Project](https://img.shields.io/static/v1?label=Project&message=Github&color=blue)](https://github.com/AgRoboticsResearch/SDM-D.git) [![Dataset](https://img.shields.io/static/v1?label=Dataset&message=Kaggle&color=green)](https://www.kaggle.com/datasets/mmwang0/megafruits)
 [![Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/1tmgaogh9VjGp4sJnBMcUSyKrMfcuqwDw?usp=drive_link) 
 
 ![SDM-D architecture](./asset/1-all2.png)
 
 **🍄Segmentation-Description-Matching-Distilling** is a framework designed to distill small models that enable panoramic perception of complex agricultural scenes from foundation models without relying on manual labels. At its core is SDM, which operates without pre-training or significant resource consumption, within a segment-then-prompt paradigm. SDM demonstrates strong zero-shot performance across various fruit detection tasks (object detection, semantic segmentation, and instance segmentation), consistently outperforming SOTA OVD methods across various fruit perception tasks, demonstrating superior dexterity and generality.
+**🍄Anyone can easily access our paper through the following link: [![Paper](https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red)](https://arxiv.org/abs/2411.16196) or [![Paper](https://img.shields.io/static/v1?label=Paper&message=Pattern-Recognition&color=red)](https://doi.org/10.1016/j.patcog.2025.112799).
 
 ## 🔥Colab try
 We provide a Google's Colab example [![Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/1tmgaogh9VjGp4sJnBMcUSyKrMfcuqwDw?usp=drive_link), where anyone can use our project quickly and easily.
